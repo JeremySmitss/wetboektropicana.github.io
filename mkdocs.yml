@@ -1,0 +1,25 @@
+site_name: Wetboek Tropicana Roleplay
+site_description: 'APV van Tropicana Roleplay'
+site_url: 'https://wetboek.tropicana.nl/'
+site_author: 'Tropicana'
+
+copyright: Copyright 2022 - Tropicana Roleplay
+
+repo_url: 'https://github.com/JeremySmitss/Tropicana-Development'
+repo_name: 'JeremySmitss/Tropicana-Development'
+
+google_analytics: ['UA-230306016-1', 'wetboek.tropicana.nl']
+
+theme:
+  name: material
+
+
+nav:
+    - Home: home.md
+    - Server Regels: index.md
+    - Categoriëen: categorieen.md
+    - Wetboek: wetboek.md
+    - Streamen: streamen.md
+    - Risico Gebieden: risico.md
+    - No Fly Zones: noflyzones.md
+    - Staffleden: staffleden.md
